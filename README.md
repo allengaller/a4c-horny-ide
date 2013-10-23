@@ -7,3 +7,6 @@ The Horny IDE for Python, PHP, Ruby and Cxx.
 =======================
 
 The Horny IDE for Python, PHP, Ruby and Cxx.
+
+Resource:
+[Kod for Mac](https://github.com/rsms/kod)
